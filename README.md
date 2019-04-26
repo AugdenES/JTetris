@@ -35,8 +35,7 @@ Spacebar  <br />
 
 ## Contributers
 Augden Shaw <br />
-UConn Professor GReg Johnson <br />
-Colleagues: <br />
-* Tyler T. Nguyen <br />
-* Jared D. Nye <br />
-* Daniel Scalzi <br />
+Tyler T. Nguyen <br />
+Jared D. Nye <br />
+Daniel Scalzi <br />
+UConn Professor Greg Johnson <br />
