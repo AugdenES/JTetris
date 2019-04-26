@@ -34,7 +34,7 @@ Spacebar  <br />
 * Pause the game. <br />
 
 ## Contributers
-Augden Shaw
+Augden Shaw <br />
 UConn Professor GReg Johnson <br />
 Colleagues: <br />
 * Tyler T. Nguyen <br />
