@@ -1,7 +1,7 @@
 # JTetris-
 
 ## Tetris Arcade Style
-The purpose of this project was to build a simple Tetris arcade style game for all and to utilize Java Graphics APIs, manage and demonstrate proxy and holder design patterns, and strengthen object-oriented programming skills for future personal and professional experiences.
+The purpose of this project was to build a simple Tetris arcade style game for all and to utilize Java Graphics APIs, manage and demonstrate proxy and holder design patterns, and strengthen object-oriented programming skills for future personal and professional experiences.  
 
 ## Starting the Game
 Ensure an updated JDK is installed onto your command line and then download JTetris into an accessible folder onto your computer. There are two ways to run JTetris:
@@ -32,3 +32,11 @@ Spacebar  <br />
 
 *P*: <br />
 * Pause the game. <br />
+
+## Contributers
+Augden Shaw
+UConn Professor GReg Johnson <br />
+Colleagues: <br />
+* Tyler T. Nguyen <br />
+* Jared D. Nye <br />
+* Daniel Scalzi <br />
