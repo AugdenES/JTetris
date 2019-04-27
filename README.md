@@ -1,4 +1,4 @@
-# JTetris-
+# JTetris
 
 ## Tetris Arcade Style
 The purpose of this project was to build a simple Tetris arcade style game for all and to utilize Java Graphics APIs, manage and demonstrate proxy and holder design patterns, and strengthen object-oriented programming skills for future personal and professional experiences.  
