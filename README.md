@@ -17,23 +17,23 @@ Everything should be working! When the game is finished, a message prompt will a
 Each software program runs java programs differently (e.g for IDEs: Eclipse, IntelliJ, NetBeans, and BlueJ). But provided you follow the user instructions for those specific programs, JTetris will run. I personally used BlueJ to design and build JTetris because of its simplicity, but there are other ways to run the game.
 
 ## Controls
-*Spacebar*:  <br />
+*Spacebar*  <br />
 * Drop current tetris piece to the bottom of the screen or onto stacked pieces. <br />
 * When game has ended, press to start a new game. <br />
 
-*Up arrow key*: <br />
+*Up arrow key* <br />
 * Rotate piece 90º counterclockwise
 
-*Left arrow key*: <br />
+*Left arrow key* <br />
 * Move piece left. <br />
 
-*Right arrow key*: <br />
+*Right arrow key* <br />
 * Move piece right. <br />
 
-*Down arrow key*: <br />
+*Down arrow key* <br />
 * Move piece down. <br />
 
-*P*: <br />
+*P* <br />
 * Pause the game. <br />
 
 ## GamePlay
