@@ -21,6 +21,9 @@ Spacebar  <br />
 * Drop current tetris piece to the bottom of the screen or onto stacked pieces. <br />
 * When game has ended, press to start a new game. <br />
 
+*Up arrow key*: <br />
+* Rotate piece 90º counterclockwise
+
 *Left arrow key*: <br />
 * Move piece left. <br />
 
