@@ -33,9 +33,14 @@ Spacebar  <br />
 *P*: <br />
 * Pause the game. <br />
 
+## GamePlay
+![](JTetrisGameplay.gif)
+
 ## Contributers
 Augden Shaw <br />
 Tyler T. Nguyen <br />
 Jared D. Nye <br />
 Daniel Scalzi <br />
 UConn Professor Greg Johnson <br />
+
+
