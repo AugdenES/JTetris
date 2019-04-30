@@ -61,7 +61,7 @@ public class GamePanel extends JPanel implements ActionListener
         Tetrimino newPiece;
         int randomNumber;
         
-        int x = (TetrisConstants.BOARD_WIDTH/2) * TetrisConstants.BLOCK_SIZE;
+        int x = (TetrisConstants.BOARD_WIDTH/2)*TetrisConstants.BLOCK_SIZE+2;
         int y = 0;
         randomNumber = (int) (Math.floor(Math.random()*7)+1);
         switch(randomNumber) {
@@ -71,7 +71,7 @@ public class GamePanel extends JPanel implements ActionListener
             case 4: newPiece = new J(x,y);     break;
             case 5: newPiece = new O(x,y);     break;
             case 6: newPiece = new I(x,y);     break;
-            default: newPiece = new T(x,y);     break;
+            default: newPiece = new T(x,y);    break;
         }
         return newPiece;
     }
