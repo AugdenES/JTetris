@@ -9,8 +9,8 @@ public class TetrisApp extends JFrame{
      super("JTetris");
      this.setResizable(false);
      _gamePanel = new GamePanel(); 
-     _gamePanel.setPreferredSize(new java.awt.Dimension(TetrisConstants.BLOCK_SIZE*TetrisConstants.BOARD_WIDTH+4, TetrisConstants.BLOCK_SIZE*TetrisConstants.BOARD_HEIGHT+24));
-     this.setSize(TetrisConstants.BLOCK_SIZE*TetrisConstants.BOARD_WIDTH+4, TetrisConstants.BLOCK_SIZE*TetrisConstants.BOARD_HEIGHT+24);
+     _gamePanel.setPreferredSize(new java.awt.Dimension(TetrisConstants.BLOCK_SIZE*TetrisConstants.BOARD_WIDTH+3, TetrisConstants.BLOCK_SIZE*TetrisConstants.BOARD_HEIGHT+23));
+     this.setSize(TetrisConstants.BLOCK_SIZE*TetrisConstants.BOARD_WIDTH+3, TetrisConstants.BLOCK_SIZE*TetrisConstants.BOARD_HEIGHT+23);
      this.setDefaultCloseOperation(javax.swing.JFrame.EXIT_ON_CLOSE);
      this.add(_gamePanel);  
      this.setVisible(true);
