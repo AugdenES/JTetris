@@ -37,7 +37,7 @@ Each software program runs java programs differently (e.g for IDEs: Eclipse, Int
 * Pause the game. <br />
 
 ## GamePlay
-![](JTetrisGameplay.gif)
+![](JTetrisgameplay.gif)
 
 ## Contributers
 Augden Shaw <br />
