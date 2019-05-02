@@ -4,10 +4,10 @@
 The purpose of this project was to build a simple Tetris arcade style game for all and to utilize Java Graphics APIs, manage and demonstrate proxy and holder design patterns, and strengthen object-oriented programming skills for future personal and professional experiences.  
 
 ## Starting the Game
-Ensure an updated JDK is installed onto your command line and then download JTetris into an accessible folder onto your computer. There are two ways to run JTetris:
+Ensure an updated JDK is installed onto your command line and then download __JTetris__ into an accessible folder onto your computer. There are two ways to run JTetris:
 
 ### 1. Console 
-#### First, cd into the correct directory where TetrisApp.java and the rest of files are located. After, type the following in the command line:
+#### First, cd into the correct directory where TetrisApp.java and the rest of the files from  are located. After, type the following in the command line:
 $ javac TetrisApp.java <br />
 $ java TetrisApp <br />
 
