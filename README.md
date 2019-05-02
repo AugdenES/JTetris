@@ -14,7 +14,7 @@ $ java TetrisApp <br />
 Everything should be working! When the game is finished, a message prompt will appear that says "Game over." in which the game will automatically restart for you and will keep doing so unless you close the game, manually.
 
 ### 2. IDE/Text Editor/Other Software Programs
-Each software program runs java programs differently (e.g for IDEs: Eclipse, IntelliJ, NetBeans, and BlueJ). But provided you follow the user instructions for those specific programs, JTetris will run. I personally used BlueJ to design and build JTetris because of its simplicity, but there are other ways to run the game.
+Each software program runs java programs differently (e.g for IDEs: Eclipse, IntelliJ, NetBeans, and BlueJ). But provided you follow the user instructions for those specific programs, JTetris will run. I personally used BlueJ to design and work on JTetris because of its simplicity, but there are other ways to run the game.
 
 ## Controls
 *Spacebar*  <br />
