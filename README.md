@@ -7,7 +7,7 @@ The purpose of this project was to build a simple Tetris arcade style game for a
 Ensure an updated JDK is installed onto your command line and then download JTetris into an accessible folder onto your computer. There are two ways to run JTetris:
 
 ### 1. Console 
-#### First, cd into the correct directory where TetrisApp.java is located. After, type the following in the command line:
+#### First, cd into the correct directory where TetrisApp.java and the rest of files are located. After, type the following in the command line:
 $ javac TetrisApp.java <br />
 $ java TetrisApp <br />
 
